@@ -31,10 +31,11 @@ int main()
 //                                 writeProverb
 //
 // task: This function prints a proverb. The function takes a number
-//       from the call. If tyhat number is a 1 it prints "Now is the time
+//       from the call. If that number is a 1 it prints "Now is the time
 //       for all good men to come to the aid of their party."
-//       Otherwise, it prints "Now is the time for all good men
-//       to come to the aid of their country."
+//       If that number is a 2 it prints "Now is the time for all good men
+//       to come to the aid of their country." If the number is not 1
+//       or 2 it prints an error message.
 // data in: code for ending word of proverb (integer)
 // data out: no actual parameter altered
 //
